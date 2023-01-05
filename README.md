@@ -10,3 +10,6 @@ raw=true
 alt=“Vertical flight efficiency”
 style=“margin-right: 10px;”
 />
+
+
+![Vertical flight efficiency](/images/example.jpg)*Vertical flight efficiency*
