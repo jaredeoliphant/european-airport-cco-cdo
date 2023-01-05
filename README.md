@@ -12,4 +12,4 @@ style=“margin-right: 10px;”
 />
 
 
-![Vertical flight efficiency](/images/example.jpg)*Vertical flight efficiency*
+![Vertical flight efficiency](/images/example.png)*Vertical flight efficiency*
