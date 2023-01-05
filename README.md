@@ -5,7 +5,7 @@ https://ansperformance.eu/data/
 Vertical flight efficiency - Continuous climb and descent operations
 
 <img
-src=“images/example.jpg”
+src=“images/example.png”
 raw=true
 alt=“Vertical flight efficiency”
 style=“margin-right: 10px;”
